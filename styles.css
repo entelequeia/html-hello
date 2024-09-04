@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    background: rgb(235, 235, 235)
+  
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+header{
+    padding: 10px;
+    background: white;
+    h1{
+        margin:0;
+    }
+}
+div.post{
+    
+    background: white; 
+    h2{
+        margin-bottom: -40px;
+        padding: 10px;
+    }
+    p{
+        padding:10px;
+    }
+     
+}
+div.container{
+    width: 600px;
+    margin:auto
+}
+span{
+    float: right;
+    margin: 10px;
+    color: lightgray;
+}
+
+
+
